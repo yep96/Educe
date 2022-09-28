@@ -1,0 +1,11 @@
+rA
+rB
+rC
+rD
+rE
+p1
+p2
+rAA
+rBB
+rCC
+rDD
